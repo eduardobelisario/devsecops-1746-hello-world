@@ -1,11 +1,11 @@
-# Profile: <Seu Nome Completo>
+# Profile: Helmut Nakashima
 
 > **Role atual:** [Ex: Desenvolvedor Backend / Analista de Infra / Estudante]  
 > **Status:** [Ex: Migrando para Segurança / Especializando em Cloud]
 
 ## 🛠️ Stack Principal
-- [Tecnologia/Ferramenta 1]
-- [Tecnologia/Ferramenta 2]
+- okd
+- grafana
 - [...]
 
 ## 🛡️ Pipeline da Carreira

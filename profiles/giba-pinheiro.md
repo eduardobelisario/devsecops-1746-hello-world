@@ -15,4 +15,4 @@
 
 ## 💬 Commit Summary
 `feat(profile): adiciona perfil de <seu-nome>`
-`feat(carreira): <cargo atual>; goal: <objetivos>; expect: <expectativas>`
+`feat(carreira): analista pleno; goal: Evoluir na carreira; expect: Ampliar conhecimentos em cloud, docker, kubernetes, DevSecOps`
